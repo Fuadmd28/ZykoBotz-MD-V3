@@ -97,7 +97,7 @@ global.wibb = `${wktuwib}`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INTRO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.botintro = 'Hallo, Saya ZykoBotz-MD Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh zyko-md ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.botintro = 'Hallo, Saya Neko-Bot Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh zyko-md ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/676bac7774d2785b7ee1e.jpg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -113,8 +113,8 @@ global.pgopay = '08XXXXXXXXXX'
 global.plinkaja = '-' //link aja
 global.ppulsa = '08XXXXXXXXXX'
 global.ppulsa2 = '08XXXXXXXXXX'
-global.psaweria = 'https://saweria.co/hyuura'
-global.donasikabul = 'Jasa Sewa ZykoBotz-MD\nhttps://lynk.id/kabul',
+global.psaweria = 'https://saweria.co/hyra'
+global.donasikabul = 'Jasa Sewa Neko-Bot\nhttps://lynk.id/kabul',
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -289,16 +289,16 @@ global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ THUMBNAIL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.fotonya1 = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/8fdc6aadd2a6c5acf2549.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/8fdc6aadd2a6c5acf2549.jpg' //ini juga ganti 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ Main Thumbnail ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.thumb = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg' 
-global.imagebot = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
+global.thumb = 'https://telegra.ph/file/8fdc6aadd2a6c5acf2549.jpg' 
+global.imagebot = 'https://telegra.ph/file/8fdc6aadd2a6c5acf2549.jpg'
 global.giflogo = 'https://telegra.ph/file/d99857d74715351bdcd6c.mp4'
 global.zykomd = 'https://telegra.ph/file/568a7bba190f80c9f5cc6.mp4'
-global.thumbs = ['https://telegra.ph/file/2e8d2ef0926e848626a43.jpg']
+global.thumbs = ['https://telegra.ph/file/8fdc6aadd2a6c5acf2549.jpg']
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
   'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
