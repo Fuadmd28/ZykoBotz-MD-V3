@@ -38,54 +38,54 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/kabulsaputra21'
 global.tautanwa = 'https://wa.me/message/KRXQFJXHYZDNL1'
-global.sgh = 'https://github.com/ZykoBotz-MD' //github
-global.sgc = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf' //group whatsapp
+global.sgh = 'https://github.com' //github
+global.sgc = 'https://chat.whatsapp.com/HT6660rFAqhfrQFJgf' //group whatsapp
 global.sdc = '-' //discord
 global.linkyt = 'https://youtube.com/@zykobotz'
 global.syt = 'https://youtube.com/@zykobotz'
 global.sfb = 'https://www.facebook.com/' // facebook
-global.snh = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf'
+global.snh = 'https://chat.whatsapp.com/HT6660rF8qhfrQFJgf'
 global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
 global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['628XXXXXXXXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true],
-['628XXXXXXXXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true]
+['628989513496', '𝘽𝙖𝙣𝙜 𝙁𝘿', true],
+['628989513496', '𝘽𝙖𝙣𝙜 𝙁𝘿', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '628XXXXXXXXX' //pasang no bot lo 
-global.nomorown = '628XXXXXXXXX' //pasang no own lo
-global.nomorown1 = '628XXXXXXXXX'
-global.nomorown2 = '628XXXXXXXXX'
+global.nomorbot = '628989513496' //pasang no bot lo 
+global.nomorown = '628989513496' //pasang no own lo
+global.nomorown1 = '628989513496'
+global.nomorown2 = '628989513496'
 global.nomorwa = '0'
-global.nameown = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.gcname = '𝑍𝑌𝐾𝑂-𝑀𝐷 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.author = 'Created By 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.namabot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.namebot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.packname2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.nameown = '𝘽𝙖𝙣𝙜 𝙁𝘿'
+global.gcname = '𝘽𝙖𝙣𝙜 𝙁𝘿 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
+global.author = 'Created By 𝘽𝙖𝙣𝙜 𝙁𝘿'
+global.namabot = '𝘽𝙖𝙣𝙜 𝙁𝘿'
+global.namebot = '𝘽𝙖𝙣𝙜 𝙁𝘿'
+global.packname2 = '𝘽𝙖𝙣𝙜 𝙁𝘿'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.nameown2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.nameown1= '𝘽𝙖𝙣𝙜 𝙁𝘿'
+global.nameown2 = '𝘽𝙖𝙣𝙜 𝙁𝘿'
 
 /*============== STAFF ==============*/
 //kosong
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.wm2 = '𝑍𝑌𝐾𝑂-𝑀𝐷 '
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝘽𝙖𝙣𝙜 𝙁𝘿'
+global.wm2 = '𝘽𝙖𝙣𝙜 𝙁𝘿'
 global.packname = wm
 global.watermark = wm
-global.titlebot = `𝑍𝑌𝐾𝑂-𝑀𝐷`
+global.titlebot = `𝘽𝙖𝙣𝙜 𝙁𝘿`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.stickauth = `© 𝑍𝑌𝐾𝑂-𝑀𝐷`
+global.stickpack = 'Neko-Bot'
+global.stickauth = `© 𝘽𝙖𝙣𝙜 𝙁𝘿`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
