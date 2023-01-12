@@ -36,12 +36,12 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/kabulsaputra21'
+global.sig = 'https://instagram.com'
 global.tautanwa = 'https://wa.me/message/KRXQFJXHYZDNL1'
 global.sgh = 'https://github.com' //github
-global.sgc = 'https://chat.whatsapp.com/HT6660rFAqhfrQFJgf' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/HT6660rFAqhfFJgf' //group whatsapp
 global.sdc = '-' //discord
-global.linkyt = 'https://youtube.com/@zykobotz'
+global.linkyt = 'https://youtube.com/@fuadxyro5248'
 global.syt = 'https://youtube.com/@zykobotz'
 global.sfb = 'https://www.facebook.com/' // facebook
 global.snh = 'https://chat.whatsapp.com/HT6660rF8qhfrQFJgf'
