@@ -49,27 +49,27 @@ global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
 global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['628989513496', '𝘽𝙖𝙣𝙜 𝙁𝘿', true],
-['628989513496', '𝘽𝙖𝙣𝙜 𝙁𝘿', true]
+['6285230826913', 'Owner Bot', true],
+['6285230826913', 'Owner Bot', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '628989513496' //pasang no bot lo 
-global.nomorown = '628989513496' //pasang no own lo
-global.nomorown1 = '628989513496'
-global.nomorown2 = '628989513496'
+global.nomorown = '6285230826913' //pasang no own lo
+global.nomorown1 = '6285230826913'
+global.nomorown2 = '6285230826913'
 global.nomorwa = '0'
-global.nameown = '𝘽𝙖𝙣𝙜 𝙁𝘿'
+global.nameown = 'Owner Bot'
 global.gcname = '𝘽𝙖𝙣𝙜 𝙁𝘿 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
 global.author = 'Created By 𝘽𝙖𝙣𝙜 𝙁𝘿'
-global.namabot = '𝘽𝙖𝙣𝙜 𝙁𝘿'
-global.namebot = '𝘽𝙖𝙣𝙜 𝙁𝘿'
-global.packname2 = '𝘽𝙖𝙣𝙜 𝙁𝘿'
+global.namabot = 'DavzBotz'
+global.namebot = 'DavzBotz'
+global.packname2 = 'DavzBotz'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= '𝘽𝙖𝙣𝙜 𝙁𝘿'
-global.nameown2 = '𝘽𝙖𝙣𝙜 𝙁𝘿'
+global.nameown1= 'Owner Bot'
+global.nameown2 = 'Owner Bot'
 
 /*============== STAFF ==============*/
 //kosong
@@ -84,7 +84,7 @@ global.titlebot = `𝘽𝙖𝙣𝙜 𝙁𝘿`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = 'Neko-Bot'
+global.stickpack = 'DavzBotz'
 global.stickauth = `© 𝘽𝙖𝙣𝙜 𝙁𝘿`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -107,13 +107,13 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.pdana = '08XXXXXXXXXX' //pasang no lo sinih buat donasi 
-global.povo = '08XXXXXXXXXX' 
-global.pgopay = '08XXXXXXXXXX'
-global.plinkaja = '-' //link aja
-global.ppulsa = '08XXXXXXXXXX'
-global.ppulsa2 = '08XXXXXXXXXX'
-global.psaweria = 'https://saweria.co/hyra'
+global.pdana = '6285230826913' //pasang no lo sinih buat donasi 
+global.povo = '6285230826913' 
+global.pgopay = '6285230826913'
+global.plinkaja = 'https://youtube.com/@fuadxyro5248' //link aja
+global.ppulsa = '6285230826913'
+global.ppulsa2 = '6285230826913'
+global.psaweria = 'nekopoi.care'
 global.donasikabul = 'Jasa Sewa Neko-Bot\nhttps://lynk.id/kabul',
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
